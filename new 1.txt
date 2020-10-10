@@ -1,0 +1,9 @@
+<!DOCTYPE>
+<html>
+<body>
+<h1> object tag </h1>
+<form>
+<textarea wrap="soft" rows="5" cols="5"> user invalid new linenew areanhejdkmlmls
+</textarea></form>
+</body>
+</html>
